@@ -22,6 +22,10 @@ const Navbar = () => {
               {" "}
               Login
             </Link>
+            <Link href="/dashboard" className="hover:text-gray-800">
+              {" "}
+              Dashboard
+            </Link>
             <Link href="/register" className="hover:text-gray-800">
               {" "}
               Register
